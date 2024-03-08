@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<appSettings>
+		<Cliente>FPF-AVEIRO</Cliente>
+		<EntradaSaida>E</EntradaSaida>
+		<TerminalID>10</TerminalID>
+		<WebServerNameSpace>http://tempuri.org/</WebServerNameSpace>
+		<WebServiceName>IAccessControl</WebServiceName>
+		<WebServerURL>http://10.176.112.10:8081/SmartAccess</WebServerURL>
+		<WebServerVersion>2</WebServerVersion>
+		<Terminais>
+			<Terminal Id='225' Evento='E1 Poente Sup. Norte'></Terminal>
+			<Terminal Id='226' Evento='E2 Poente Inferior'></Terminal>
+			<Terminal Id='224' Evento='E2 Norte Inferior'></Terminal>
+			<Terminal Id='227' Evento='E3 Norte Superior'></Terminal>
+			<Terminal Id='228' Evento='E4 Norte Superior'></Terminal>
+			<Terminal Id='229' Evento='E5 Norte Inferior'></Terminal>
+			<Terminal Id='220' Evento='E5 Nascente Inferior'></Terminal>
+			<Terminal Id='221' Evento='E6 Nascente Superior'></Terminal>
+			<Terminal Id='222' Evento='E7 Nascente Superior'></Terminal>
+			<Terminal Id='223' Evento='E8 Nascente Inferior'></Terminal>
+			<Terminal Id='230' Evento='E8 Sul Inferior'></Terminal>
+			<Terminal Id='231' Evento='E9 Sul Superior'></Terminal>
+			<Terminal Id='232' Evento='E10 Sul Superior'></Terminal>
+			<Terminal Id='233' Evento='E11 Sul Inferior'></Terminal>
+			<Terminal Id='234' Evento='E11 Poente Inferior'></Terminal>
+			<Terminal Id='235' Evento='E12 Poente Sup. Sul'></Terminal>
+		</Terminais>
+
+	</appSettings>
+</configuration>

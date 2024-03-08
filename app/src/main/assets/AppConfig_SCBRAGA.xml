@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<appSettings>
+		<Cliente>S.C. BRAGA</Cliente>
+		<EntradaSaida>E</EntradaSaida>
+		<TerminalID>10</TerminalID>
+		<WebServerNameSpace>http://tempuri.org/</WebServerNameSpace>
+		<WebServiceName>IAccessControl</WebServiceName>
+		<WebServerURL>http://10.0.0.8:8081/SmartAccess</WebServerURL>
+		<WebServerVersion>2</WebServerVersion>
+		<Terminais>
+			<Terminal Id='223' Evento='Parque 1'></Terminal>
+			<Terminal Id='224' Evento='Parque 2'></Terminal>
+			<Terminal Id='225' Evento='Parque 3'></Terminal>
+			<Terminal Id='226' Evento='Parque 4'></Terminal>
+			<Terminal Id='227' Evento='Parque 5'></Terminal>
+			<Terminal Id='222' Evento='Trib. Prestige'></Terminal>
+			<Terminal Id='100' Evento='Multidesportivo - Geral'></Terminal>
+			<Terminal Id='101' Evento='Multidesportivo - Nascente'></Terminal>
+			<Terminal Id='102' Evento='Multidesportivo - Poente'></Terminal>
+			<Terminal Id='103' Evento='Multidesportivo - Visitante'></Terminal>
+		</Terminais>
+
+	</appSettings>
+</configuration>

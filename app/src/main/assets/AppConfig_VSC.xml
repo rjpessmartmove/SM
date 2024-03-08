@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<appSettings>
+		<EntradaSaida>E</EntradaSaida>
+		<TerminalID>10</TerminalID>
+		<WebServerNameSpace>http://tempuri.org/</WebServerNameSpace>
+		<WebServiceName>IAccessControl</WebServiceName>
+		<WebServerURL>http://192.168.20.99:8081/SmartAccess</WebServerURL>
+		<WebServerVersion>2</WebServerVersion>
+		<Terminais>
+			<Terminal Id='59' Evento='Poente Superior'></Terminal>
+			<Terminal Id='60' Evento='Poente Inferior'></Terminal>
+			<Terminal Id='61' Evento='Sul Superior'></Terminal>
+			<Terminal Id='62' Evento='Sul Inferior'></Terminal>
+			<Terminal Id='56' Evento='Nascente Inferior'></Terminal>
+			<Terminal Id='55' Evento='Nascente Superior'></Terminal>
+			<Terminal Id='57' Evento='Norte Superior'></Terminal>
+			<Terminal Id='58' Evento='Norte Inferior'></Terminal>
+			<Terminal Id='63' Evento='Camorotes Norte'></Terminal>
+			<Terminal Id='64' Evento='Camarotes Sul'></Terminal>
+			<Terminal Id='65' Evento='Corporate'></Terminal>
+			<Terminal Id='67' Evento='Tribuna Poente'></Terminal>
+			<Terminal Id='66' Evento='Porta Principal'></Terminal>
+			<Terminal Id='68' Evento='Norte ZCEAP'></Terminal>
+			<Terminal Id='69' Evento='Sul ZCEAP'></Terminal>
+			<Terminal Id='70' Evento='Parque 1'></Terminal>
+			<Terminal Id='71' Evento='Parque 2'></Terminal>
+			<Terminal Id='72' Evento='Parque 3'></Terminal>
+			<Terminal Id='100' Evento='Porta A - Pistas'></Terminal>
+			<Terminal Id='101' Evento='Porta B - Pistas'></Terminal>
+			<Terminal Id='102' Evento='Porta C - Pistas'></Terminal>
+			<Terminal Id='104' Evento='Porta 1 - Pav. Unid.'></Terminal>
+			<Terminal Id='105' Evento='Porta 2 - Pav. Unid.'></Terminal>
+		</Terminais>
+
+	</appSettings>
+</configuration>

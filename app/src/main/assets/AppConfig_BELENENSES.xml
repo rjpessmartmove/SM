@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<appSettings>
+		<EntradaSaida>E</EntradaSaida>
+		<TerminalID>10</TerminalID>
+		<WebServerNameSpace>http://tempuri.org/</WebServerNameSpace>
+		<WebServiceName>IAccessControl</WebServiceName>
+		<WebServerURL>http://51.144.161.30:8081/SmartAccess</WebServerURL>
+		<WebServerVersion>2</WebServerVersion>
+		<Terminais>
+			<Terminal Id='101' Evento='Porta 1'></Terminal>
+			<Terminal Id='102' Evento='Porta 2'></Terminal>
+			<Terminal Id='103' Evento='Porta 3'></Terminal>
+			<Terminal Id='104' Evento='Porta 4'></Terminal>
+			<Terminal Id='105' Evento='Porta 5'></Terminal>
+			<Terminal Id='106' Evento='Porta 6'></Terminal>
+			<Terminal Id='107' Evento='Porta 7'></Terminal>
+			<Terminal Id='108' Evento='Porta 8'></Terminal>
+			<Terminal Id='109' Evento='Porta 9'></Terminal>
+			<Terminal Id='110' Evento='Porta 10'></Terminal>
+			<Terminal Id='111' Evento='Porta 11'></Terminal>
+			<Terminal Id='112' Evento='Porta 12'></Terminal>
+			<Terminal Id='113' Evento='Porta 13'></Terminal>
+		</Terminais>
+
+	</appSettings>
+</configuration>

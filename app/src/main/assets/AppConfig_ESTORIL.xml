@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<appSettings>
+		<Cliente>ESTORIL</Cliente>
+		<EntradaSaida>E</EntradaSaida>
+		<TerminalID>10</TerminalID>
+		<WebServerNameSpace>http://tempuri.org/</WebServerNameSpace>
+		<WebServiceName>IAccessControl</WebServiceName>
+		<WebServerURL>http://13.81.13.163:8081/SmartAccess</WebServerURL>
+		<WebServerVersion>2</WebServerVersion>
+		<Terminais>
+			<Terminal Id='10' Evento='Porta 1/2'></Terminal>
+			<Terminal Id='11' Evento='Porta 1A'></Terminal>
+			<Terminal Id='12' Evento='Porta 2'></Terminal>
+			<Terminal Id='13' Evento='Porta 5'></Terminal>
+			<Terminal Id='14' Evento='Porta 6'></Terminal>
+			<Terminal Id='15' Evento='Porta 6A'></Terminal>
+		</Terminais>
+
+	</appSettings>
+</configuration>

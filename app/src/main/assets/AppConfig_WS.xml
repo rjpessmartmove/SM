@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<appSettings>
+		<EntradaSaida>E</EntradaSaida>
+		<TerminalID>10</TerminalID>
+		<WebServerNameSpace>http://SmartMove.Access.Service/</WebServerNameSpace>
+		<WebServiceName>-</WebServiceName>
+		<WebServerURL>http://192.168.60.15:8090/SmartAccessMobile.asmx</WebServerURL>
+		<WebServerVersion>1</WebServerVersion>
+		<Terminais>
+			<Terminal Id='223' Evento='P1'></Terminal>
+			<Terminal Id='224' Evento='P2'></Terminal>
+		</Terminais>
+
+	</appSettings>
+</configuration>

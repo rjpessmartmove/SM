@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<appSettings>
+		<Cliente>FPF - FARO</Cliente>
+		<EntradaSaida>E</EntradaSaida>
+		<TerminalID>10</TerminalID>
+		<WebServerNameSpace>http://tempuri.org/</WebServerNameSpace>
+		<WebServiceName>IAccessControl</WebServiceName>
+		<WebServerURL>http://10.176.112.10:8081/SmartAccess</WebServerURL>
+		<WebServerVersion>2</WebServerVersion>
+		<Terminais>
+			<Terminal Id='201' Evento='Porta 01'></Terminal>
+			<Terminal Id='205' Evento='Porta 02'></Terminal>
+			<Terminal Id='203' Evento='Porta 05'></Terminal>
+			<Terminal Id='207' Evento='Porta 06'></Terminal>
+			<Terminal Id='224' Evento='Porta 08'></Terminal>
+			<Terminal Id='222' Evento='Porta 09'></Terminal>
+			<Terminal Id='223' Evento='Porta 10'></Terminal>
+			<Terminal Id='219' Evento='Porta 11'></Terminal>
+			<Terminal Id='209' Evento='Porta 13'></Terminal>
+			<Terminal Id='211' Evento='Porta 14'></Terminal>
+			<Terminal Id='213' Evento='Porta 15'></Terminal>
+			<Terminal Id='215' Evento='Porta 16'></Terminal>
+			<Terminal Id='217' Evento='Porta 17'></Terminal>
+			<Terminal Id='221' Evento='Porta 19'></Terminal>
+			<Terminal Id='226' Evento='Porta 20'></Terminal>
+			<Terminal Id='227' Evento='Porta 21'></Terminal>
+			<Terminal Id='225' Evento='Porta 22'></Terminal>
+		</Terminais>
+
+	</appSettings>
+</configuration>	

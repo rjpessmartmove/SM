@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+	<appSettings>
+		<EntradaSaida>E</EntradaSaida>
+		<TerminalID>10</TerminalID>
+		<WebServerNameSpace>http://tempuri.org/</WebServerNameSpace>
+		<WebServiceName>IAccessControl</WebServiceName>
+		<WebServerURL>http://172.30.18.130:8081/SmartAccess</WebServerURL>
+		<WebServerVersion>2</WebServerVersion>
+		<Terminais>
+			<Terminal Id='10' Evento='Chocolate'></Terminal>
+			<Terminal Id='20' Evento='Cork'></Terminal>
+			<Terminal Id='40' Evento='Prata'></Terminal>
+			<Terminal Id='50' Evento='Bridge'></Terminal>
+			<Terminal Id='60' Evento='Wine'></Terminal>
+			<Terminal Id='70' Evento='Workshop Chocolate'></Terminal>
+			<Terminal Id='80' Evento='Exposições Temp.'></Terminal>
+			<Terminal Id='81' Evento='Auditório Exposições Temp.'></Terminal>
+			<Terminal Id='90' Evento='Wine School'></Terminal>
+			<Terminal Id='95' Evento='Pink Palace'></Terminal>
+			<Terminal Id='84' Evento='Eventos Mensais'></Terminal>
+			<Terminal Id='85' Evento='Chocolate Festival'></Terminal>
+			<Terminal Id='86' Evento='Museu Atkinson'></Terminal>
+			<!--<Terminal Id='31' Evento='Fashion'></Terminal>-->
+		</Terminais>
+
+	</appSettings>
+</configuration>
